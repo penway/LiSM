@@ -1,0 +1,17 @@
+left_eye          139.0  115.0
+right_eye         117.0  117.0
+nose              131.0  201.0
+neck               71.0   83.0
+root_of_tail       13.0   99.0
+left_shoulder     101.0  129.0
+left_elbow        105.0  161.0
+left_front_paw    107.0  197.0
+right_shoulder     73.0  125.0
+right_elbow        71.0  161.0
+right_front_paw    79.0  195.0
+left_hip           29.0  121.0
+left_knee          45.0  159.0
+left_back_paw      49.0  191.0
+right_hip          15.0  119.0
+right_knee         29.0  157.0
+right_back_paw     29.0  191.0

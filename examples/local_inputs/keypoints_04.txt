@@ -1,0 +1,5 @@
+left_eye          111.0   95.0
+right_eye          55.0   95.0
+nose               63.0  187.0
+neck              209.0  165.0
+right_shoulder    195.0  231.0

@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lism"
+version = "0.1.0"
+description = "LiSM: guidance in semantic mean space"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "torch>=2.8",
+  "numpy",
+  "pillow",
+  "safetensors",
+  "huggingface_hub",
+  # imported by the RAEv2 code in third_party/RAEv2
+  "omegaconf",
+  "timm",
+  "einops",
+  "transformers==4.57.1",
+]
+
+[tool.setuptools.packages.find]
+include = ["lism*"]
