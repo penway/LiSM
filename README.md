@@ -13,7 +13,7 @@ Medical University of Vienna
 
 <p align="center">
   <a href="https://arxiv.org/abs/2611.33037"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-arxiv-dark.svg"><img height="30" src="assets/button-arxiv-light.svg" alt="arXiv"></picture></a>&nbsp;
-  <a href="https://penway.cn/projects/lism/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-project-dark.svg"><img height="30" src="assets/button-project-light.svg" alt="Project Page"></picture></a>&nbsp;
+  <a href="https://penway.cn/lism/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-project-dark.svg"><img height="30" src="assets/button-project-light.svg" alt="Project Page"></picture></a>&nbsp;
   <a href="https://huggingface.co/penway47/LiSM/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-huggingface-dark.svg"><img height="30" src="assets/button-huggingface-light.svg" alt="Hugging Face"></picture></a>
 </p>
 
