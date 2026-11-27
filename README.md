@@ -7,7 +7,7 @@
 
 <h3 align="center">Linear Probes Can Guide: Training-Free Control of Representation Generators</h3>
 
-<p align="center">Pengwei Wang&emsp;&emsp;José Morano&emsp;&emsp;Botond Fazecas&emsp;&emsp;Hrvoje Bogunović <br>
+<p align="center">Pengwei Wang&emsp;&emsp;José Morano&emsp;&emsp;Botond Fazekas&emsp;&emsp;Hrvoje Bogunović <br>
 Medical University of Vienna
 </p>
 
